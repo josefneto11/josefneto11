@@ -12,7 +12,6 @@
 </div>
 
  ##
- 
 <div align="center" style="display: inline_block"><en>
 <a href = "mailto:josefneto11@hotmail.com"><img src=" https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "mailto:josefneto11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook &logoColor=white" target="_blank"></a>
@@ -20,7 +19,6 @@
 </div>
   
  ##
-
 <div align="center" style="display: inline_block"><en>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=josefneto11&show_icons=true&locale=en" alt="josefneto11" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josefneto11&" alt="josefneto11" /></p>
