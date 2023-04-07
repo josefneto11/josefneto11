@@ -20,6 +20,6 @@
   
  ##
 <div align="center" style="display: inline_block"><en>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=josefneto11&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" alt="josefneto11" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=josefneto11&show_icons=true&show=contribs,prs&cache_seconds=86400&theme=github_dark" alt="josefneto11" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=josefneto11&" alt="josefneto11" /></p>
 </div>
