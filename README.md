@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josef</h1>
 
-<h4 align="center">👋 Hi, I am Josef 👀, a student aspiring to become a great technologist 🌱. I am interested in robotics, control theory and its application, physics, history, food and great chat. I am looking forward to collaborate on different projects.</h4>
+<h4 align="center">👋 Hi, I am Josef 👀, a student aspiring to become a great technologist 🌱. I am interested in robotics, control theory and its application, physics, history, food and great chat. Currently Studying control methods. I am looking forward to collaborate on different projects.</h4>
  
  ##
 <div align="center" style="display: inline_block"><en>
